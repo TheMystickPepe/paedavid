@@ -3,59 +3,6 @@
     margin: 0px;
 }
 
-.ulDelindex{
-    color: red solid;
-    background-color: rgb(87, 178, 190);
-    padding: 50px;
-    margin: 30px;
-    border: 10px solid rgb(187, 12, 12);
-    display: flex;
-    justify-content: space-between;
-    list-style: none;
-    
-
-}
-.uno:hover{
-    color: rgb(233, 18, 18);
-text-decoration: none;
-display: block;
-padding: 10px;
-transition: all 2s;
-transform: rotate(-360deg) scale(2) translateZ(80px) ;
-}
-.dos:hover{
-    color: rgb(233, 18, 18);
-text-decoration: none;
-display: block;
-padding: 10px;
-transition: all 2s;
-transform: rotate(-360deg) scale(2) translateZ(80px) ;    
-}
-.tres:hover{
-    color: rgb(233, 18, 18);
-text-decoration: none;
-display: block;
-padding: 10px;
-transition: all 2s;
-transform: rotate(-360deg) scale(2) translateZ(80px) ;    
-}
-.cuatro:hover{
-    color: rgb(233, 18, 18);
-text-decoration: none;
-display: block;
-padding: 10px;
-transition: all 2s;
-transform: rotate(-360deg) scale(2) translateZ(80px) ;    
-}
-.cinco:hover{
-    color: rgb(233, 18, 18);
-text-decoration: none;
-display: block;
-padding: 10px;
-transition: all 2s;
-transform: rotate(-360deg) scale(2) translateZ(80px) ;    
-
-    }
 
 
 
