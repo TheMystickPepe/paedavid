@@ -1,0 +1,59 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.nav{
+    background-color: rgb(255, 255, 255);
+    a{
+        font-family: 'Bowlby One', cursive;
+        color: rgb(115, 208, 245);
+    }
+}
+.nav-item{
+   
+    background-color: rgb(245, 246, 247);
+}
+
+body {
+    margin: 0;
+    display: grid;
+    min-height: 100vh;
+  background-color: rgb(255, 255, 255);   
+  }
+
+  li{
+    color: rgb(255, 255, 255);
+}
+
+footer{
+    margin-top: 100px;
+    background-color: rgb(91, 183, 219);
+bottom: 0;
+
+#redesfooter{
+    display: flex;    
+       padding: 10px;
+       margin: 5px;
+    
+        position: center;
+    
+        justify-content: center;
+   
+    a{
+        text-decoration: none;
+        margin-left: 200px;
+    color: rgb(255, 215, 0);
+    }
+    }
+}
+
+main{
+    margin-top: 50px;
+    min-height: 50vh;
+}
+
+header{
+    min-height: 50vh;
+background-color: rgba(177, 224, 252, 0.897);
+}

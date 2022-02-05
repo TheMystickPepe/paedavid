@@ -1,0 +1,39 @@
+.parrafo-de-columna{
+    color:  rgb(255, 255, 255);
+    font-family: 'Average', serif;
+font-size: 30px;
+background-color: rgb(106, 141, 158);
+}
+
+.mt-0{
+    font-size: 50px;
+    font-family: 'Average', serif;
+color: rgb(53, 116, 124);
+}
+.container-logo-y-texto{
+    display: flex;
+    justify-content: left;
+margin-top: 40px;
+margin-left: 30px;
+margin-bottom: 40px;
+}
+
+.imagen1de3{
+    border-right: 3px solid gold;
+    border-left: 5px solid gold;
+border-top: 5px solid gold;
+border-bottom: 5px solid gold;
+}
+.imagen2de3{
+    border: 5px solid gold;
+}
+.imagen3de3{
+    border: 4px solid gold;
+}
+
+.container-article1{
+    margin-left: 100px;
+    margin-top: 20px;
+    width: 800px;
+    border: 3px solid gold;
+}
