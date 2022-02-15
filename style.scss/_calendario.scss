@@ -1,0 +1,89 @@
+
+
+
+.container-main-calendario{
+    background-color: rgb(241, 241, 241);
+}
+
+.container-h1-calendario{
+    display: grid;
+    justify-items: center;
+    margin-top: 70px;
+    font-family: 'Average', serif;
+font-size: 50px;
+color: rgb(255, 255, 255);
+border:5px solid gold;
+padding: 30px;
+}
+
+
+
+
+
+.container-img-calendario-header{
+    display: grid;
+    justify-content: center;
+    margin-top: 50px;
+    background-color: aqua;
+    padding: 30px;
+    
+}
+.container-img-calendario-1{
+    border: 5px solid white;
+}
+.container-parrafo-de-avisos{
+font-size: 35px;
+color: goldenrod;
+border: 5px solid gold;
+margin-top: 180px;
+margin-bottom: 180px;
+background-color:darkcyan;
+
+}
+
+
+.container-imagen-principal-2{
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+    background-color: rgb(236, 233, 233);
+    
+}
+
+.imagen-principal-2-container{
+    border: 5px solid white;
+}
+
+.container-titulo-h2-calendario{
+    color: goldenrod;
+    font-size: 50px;
+    margin-top: 70px;
+    margin-left: 30px;
+    
+}
+
+.container-h1-fondo-calendario{
+    background-color:darkcyan;
+}
+
+.h2-calendario{
+    color: red;
+    border: 2px solid goldenrod;
+    margin-top: 30px;
+    font-family: 'Average', serif;
+    font-size: 45px;
+    width: 250px;
+
+}
+.contaniner-section-calendario{
+    border:3px solid goldenrod;
+    width: 650px;;
+    margin-top: 60px;
+    margin-left: 20px;
+}
+
+
+
+.container-body-calendario{
+    background-color:white;
+}
