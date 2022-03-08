@@ -3,9 +3,25 @@
     padding: 0px;
     margin: 0px;
 }
+html,body{
+  overflow-x:hidden;
+}
+header{
+  background-color:#63B8CE;
+}
 
+.nav-link{
+  font-size: 15px;
+  margin-top: 10px;
+  color: #ffffff;
+border: 1px solid #37948C;
 
-
+background-color:#F07364;
+}
+.nav-link:hover{
+  transition: 2s;
+  transform: scale(1.5);
+}
 
 .footer-basic {
     padding:40px 0;
@@ -40,7 +56,6 @@
     text-align:center;
     padding-bottom:25px;
   }
-  
   .footer-basic .social > a {
     font-size:24px;
     width:40px;
@@ -58,7 +73,6 @@
   .footer-basic .social > a:hover {
     opacity:0.9;
   }
-  
   .footer-basic .copyright {
     margin-top:15px;
     text-align:center;
